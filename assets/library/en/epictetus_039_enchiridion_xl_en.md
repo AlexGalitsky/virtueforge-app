@@ -1,0 +1,1 @@
+Men call women "gentlewomen" from the age of fourteen, and those who discover that they have no other occupation than sleeping with men begin to worry about their appearance and place all their hopes on it. It is worth pointing this out to them so that they may feel respected for modesty and shame, rather than for something else.

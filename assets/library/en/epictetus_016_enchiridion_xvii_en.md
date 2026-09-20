@@ -1,0 +1,3 @@
+# The Art of Acting in Life
+
+Remember that you are an actor in the play of life, which is directed by its director. If he wishes to make it brief — then you will be an actor of a brief drama, and if he desires to make it long — then you will be an actor of a long one. It is his choice whether to cast you as a beggar, a cripple, or a nobleman. Your task is to play the role well, regardless of its designation.

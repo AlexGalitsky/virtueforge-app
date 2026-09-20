@@ -1,0 +1,638 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "VirtueForge",
+
+  "navJournal": "Journal",
+  "navTemple": "Temple",
+  "navPortico": "Portico",
+  "navOrder": "Order",
+
+  "dayMon": "Mon",
+  "dayTue": "Tue",
+  "dayWed": "Wed",
+  "dayThu": "Thu",
+  "dayFri": "Fri",
+  "daySat": "Sat",
+  "daySun": "Sun",
+
+  "levelBadge": "Lv {level}",
+  "@levelBadge": {
+    "placeholders": {
+      "level": { "type": "int" }
+    }
+  },
+
+  "journalGridTitle": "Fault Journal",
+  "weekPrev": "Previous week",
+  "weekNext": "Next week",
+  "weekNavCurrent": "This week",
+  "weekNavPast": "Week of {date}",
+  "@weekNavPast": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "strikeNoteTitle": "{virtue} · {day}",
+  "@strikeNoteTitle": {
+    "placeholders": {
+      "virtue": { "type": "String" },
+      "day": { "type": "String" }
+    }
+  },
+  "strikeNotePrompt": "What does this slip reveal about your character?",
+  "strikeNoteHint": "Write freely — this is for you alone.",
+  "strikeNoteSave": "Save reflection",
+  "dayStrikeReflectionTitle": "Day reflection",
+  "dayStrikeReflectionSubtitle": "Each mark is a separate slip. Add a note when you have time to understand it — not when you are rushing.",
+  "dayStrikeCountLabel": "{count} slips",
+  "@dayStrikeCountLabel": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "dayStrikeItemTitle": "Slip {number}",
+  "@dayStrikeItemTitle": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "dayStrikeNotePlaceholder": "Tap to add a note",
+  "dayStrikeNoteDelete": "Delete note",
+  "dayStrikeAdd": "Add slip",
+  "dayStrikeRemove": "Remove last slip",
+  "dayStrikeEmptyEditable": "No slips yet. Add one here, or tap today’s column on the grid.",
+  "dayStrikeEmptyReadonly": "No slips on this day.",
+  "gridSwipeNotes": "Notes",
+  "gridSwipeInfo": "Info",
+  "gridTipTodayOnly": "Only today’s column can be edited quickly",
+  "gridTipLongPress": "Hold a mark to undo an accidental tap",
+  "gridTipDoubleTap": "Double-tap a cell to reflect on each slip",
+  "gridTipSwipe": "Swipe a virtue left for notes or its description",
+  "eveningReflection": "Stoic evening reflection",
+  "dichotomyControl": "Dichotomy of control",
+  "reflectionUncontrolledLabel": "What happened today that was outside my control?",
+  "reflectionUncontrolledHint": "Other people’s actions, weather, traffic… (Accept as given)",
+  "reflectionControlledLabel": "How did I handle what was in my power?",
+  "reflectionControlledHint": "My reactions, decisions, focus on the virtue of the week…",
+  "finishDay": "Complete the day",
+  "reflectionTodayContextTitle": "Today’s slips",
+  "reflectionTodayEmpty": "No slips marked today — still a good moment to reflect.",
+  "reflectionVirtueStrikeHeader": "{virtue} · {count}",
+  "@reflectionVirtueStrikeHeader": {
+    "placeholders": {
+      "virtue": { "type": "String" },
+      "count": { "type": "int" }
+    }
+  },
+  "reflectionStrikeLine": "{ordinal}. {detail}",
+  "@reflectionStrikeLine": {
+    "placeholders": {
+      "ordinal": { "type": "int" },
+      "detail": { "type": "String" }
+    }
+  },
+  "reflectionStrikeNoNote": "no note",
+  "fieldRequired": "This field is required",
+  "quoteMarcusAuthor": "Marcus Aurelius",
+  "quoteMarcusBody": "“Waste no more time arguing about what a good man should be. Be one.”",
+
+  "onboardingSlide1Title": "Two systems. One character.",
+  "onboardingSlide1Body": "We combined Stoic philosophy with Benjamin Franklin’s practical method of self-control. This is a tool for forging your character.",
+  "onboardingSlide2Title": "Franklin’s 13 Virtues",
+  "onboardingSlide2Body": "Each week you focus strictly on one quality of character. In the evening you honestly mark your faults as dots on the grid.",
+  "onboardingSlide3Title": "Four Stoic Pillars",
+  "onboardingSlide3Body": "Your daily discipline feeds the four pillars of the spirit: Wisdom, Courage, Justice, and Temperance. Do not let them crack.",
+  "onboardingNext": "Next",
+  "onboardingForge": "Forge Character",
+  "skip": "Skip",
+
+  "templeTitle": "Temple of Virtues",
+  "characterStatus": "CHARACTER STATUS",
+  "steadfastProgress": "Steadfast Progress",
+  "currentCycle": "Current cycle: {current} of {total} this year",
+  "@currentCycle": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "stoicPillarsSection": "STOIC PILLARS",
+  "pillarIntegrityMonolith": "Monolith",
+  "pillarIntegrityCracked": "Cracked",
+  "pillarIntegrityShattered": "Shattered",
+  "pillarLevelLabel": "Level {level}",
+  "@pillarLevelLabel": {
+    "placeholders": {
+      "level": { "type": "int" }
+    }
+  },
+  "pillarXpLabel": "{current} / {next} XP",
+  "@pillarXpLabel": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "next": { "type": "int" }
+    }
+  },
+  "pillarMottoTemperance": "Metron Ariston",
+  "pillarMottoWisdom": "Know Thyself",
+  "pillarMottoCourage": "Amor Fati",
+  "pillarMottoJustice": "Suum Cuique",
+
+  "stoicTemperance": "Temperance",
+  "stoicTemperanceDesc": "Mastery of desires, self-control, and balance.",
+  "stoicWisdom": "Wisdom",
+  "stoicWisdomDesc": "Knowing what is good, evil, and indifferent — and choosing rightly.",
+  "stoicCourage": "Courage",
+  "stoicCourageDesc": "Endurance and fidelity to principles in the face of hardship.",
+  "stoicJustice": "Justice",
+  "stoicJusticeDesc": "Honesty and duty toward others and the world.",
+
+  "virtueAbstinence": "Temperance",
+  "virtueAbstinenceDesc": "Eat not to dullness; drink not to elevation.",
+  "virtueSilence": "Silence",
+  "virtueSilenceDesc": "Speak not but what may benefit others or yourself; avoid trifling conversation.",
+  "virtueOrder": "Order",
+  "virtueOrderDesc": "Let all your things have their places; let each part of your business have its time.",
+  "virtueResolution": "Resolution",
+  "virtueResolutionDesc": "Resolve to perform what you ought; perform without fail what you resolve.",
+  "virtueFrugality": "Frugality",
+  "virtueFrugalityDesc": "Make no expense but to do good to others or yourself; waste nothing.",
+  "virtueIndustry": "Industry",
+  "virtueIndustryDesc": "Lose no time; be always employed in something useful; cut off all unnecessary actions.",
+  "virtueSincerity": "Sincerity",
+  "virtueSincerityDesc": "Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.",
+  "virtueJustice": "Justice",
+  "virtueJusticeDesc": "Wrong none by doing injuries, or omitting the benefits that are your duty.",
+  "virtueModeration": "Moderation",
+  "virtueModerationDesc": "Avoid extremes; forbear resenting injuries so much as you think they deserve.",
+  "virtueCleanliness": "Cleanliness",
+  "virtueCleanlinessDesc": "Tolerate no uncleanliness in body, clothes, or habitation.",
+  "virtueTranquility": "Tranquility",
+  "virtueTranquilityDesc": "Be not disturbed at trifles, or at accidents common or unavoidable.",
+  "virtueChastity": "Chastity",
+  "virtueChastityDesc": "Rarely use venery but for health or offspring; never to dullness, weakness, or the injury of your own or another’s peace or reputation.",
+  "virtueHumility": "Humility",
+  "virtueHumilityDesc": "Imitate Jesus and Socrates.",
+
+  "virtueGridLabel": "{number}. {name}",
+  "@virtueGridLabel": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+
+  "porticoTitle": "Portico of Wisdom",
+  "forThisWeek": "SUITED FOR THIS WEEK",
+  "randomThought": "RANDOM THOUGHT",
+  "porticoEmptyWeek": "No essays tagged for this week yet.",
+  "essayLoadFailed": "Could not load the text. Check the connection and try again.",
+  "essayAnalysisLoadFailed": "Could not load the commentary.",
+  "readFully": "Read fully →",
+  "continueReading": "Continue →",
+  "essayReaderTextTab": "Text",
+  "essayReaderCommentTab": "Comment",
+  "essayReaderHasComment": "Has commentary",
+  "essayReaderContents": "Contents",
+  "essayReaderFontDecrease": "Smaller",
+  "essayReaderFontIncrease": "Larger",
+  "essayReaderVerseMode": "Verse mode",
+  "essayReaderCopyQuote": "Copy quote",
+  "essayReaderQuoteCopied": "Quote copied",
+  "essayReaderPrev": "Previous",
+  "essayReaderNext": "Next",
+  "essayReaderFocusHint": "This week’s focus is {virtue}. Notice what from the letter you can practice today.",
+  "@essayReaderFocusHint": {
+    "placeholders": {
+      "virtue": { "type": "String" }
+    }
+  },
+  "authorSeneca": "Seneca",
+  "authorMarcus": "Marcus Aurelius",
+  "authorEpictetus": "Epictetus",
+  "essaySenecaTitle": "On the Shortness of Life",
+  "essaySenecaSnippet": "It is not that we have a short time to live, but that we waste a great deal of it…",
+  "essayMarcusTitle": "Meditations. Book 4",
+  "essayMarcusSnippet": "Time is a river… Scarcely is a thing brought forth before it is swept away.",
+  "essayEpictetusTitle": "Wherein lies our good?",
+  "essayEpictetusSnippet": "Master your thoughts. Everything else is outside your power and does not concern you.",
+
+  "orderTitle": "Order",
+  "archiveCycles": "CYCLE ARCHIVE",
+  "personalSettings": "PERSONAL SETTINGS",
+  "birthDateTileTitle": "Birth date",
+  "birthDateTileSubtitleEmpty": "Needed for the Memento Mori life grid",
+  "birthDateTileSubtitleSet": "Born {date}",
+  "@birthDateTileSubtitleSet": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "birthDatePageTitle": "Memento Mori",
+  "birthDateLead": "Remember that you will die",
+  "birthDateDescription": "Stoics kept mortality in view so each week mattered. Enter your birth date and the journal will show a life grid of 80 years × 52 weeks — weeks already lived, weeks forged in VirtueForge, and the thin edge of the present.",
+  "birthDatePickLabel": "Your birth date",
+  "birthDatePickHint": "Tap to choose",
+  "birthDateSave": "Save",
+  "mementoMoriTitle": "Memento Mori",
+  "mementoMoriSetupTitle": "Set your birth date",
+  "mementoMoriSetupSubtitle": "Unlock the life grid (Memento Mori)",
+  "mementoMoriPlaqueSubtitle": "Open the life calendar — weeks lived and remaining",
+  "mementoMoriWeeksSummary": "Lived: {lived} wk · Remaining: {remaining} wk",
+  "@mementoMoriWeeksSummary": {
+    "placeholders": {
+      "lived": { "type": "int" },
+      "remaining": { "type": "int" }
+    }
+  },
+  "mementoMoriExploreHint": "Press and drag to explore the canvas of time",
+  "cycleTitle": "Cycle {roman} ({year})",
+  "@cycleTitle": {
+    "placeholders": {
+      "roman": { "type": "String" },
+      "year": { "type": "int" }
+    }
+  },
+  "cycleActiveSubtitle": "Week {week} of {total} · in progress",
+  "@cycleActiveSubtitle": {
+    "placeholders": {
+      "week": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "cycleDoneSubtitle": "Success: {percent}%. Weak pillar: {pillar}",
+  "@cycleDoneSubtitle": {
+    "placeholders": {
+      "percent": { "type": "int" },
+      "pillar": { "type": "String" }
+    }
+  },
+  "cycleDoneSubtitleNoWeak": "Success: {percent}%",
+  "@cycleDoneSubtitleNoWeak": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "archiveEmptyTitle": "No completed cycles",
+  "archiveEmptySubtitle": "Finish your first 13 weeks to see the archive.",
+  "cycleDetailTitle": "Cycle ledger",
+  "cycleDetailInProgress": "in progress",
+  "cycleDetailSuccessLabel": "{percent}%",
+  "@cycleDetailSuccessLabel": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "cycleDetailStrikesLabel": "{count} fault marks in this cycle",
+  "@cycleDetailStrikesLabel": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "cycleDetailWeakPillarLabel": "Weakest pillar: {pillar}",
+  "@cycleDetailWeakPillarLabel": {
+    "placeholders": {
+      "pillar": { "type": "String" }
+    }
+  },
+  "cycleDetailCompareTitle": "COMPARED TO PREVIOUS",
+  "cycleDetailCompareVs": "vs Cycle {roman} ({year})",
+  "@cycleDetailCompareVs": {
+    "placeholders": {
+      "roman": { "type": "String" },
+      "year": { "type": "int" }
+    }
+  },
+  "cycleDetailCompareSuccess": "Success",
+  "cycleDetailCompareStrikes": "Fault marks",
+  "cycleDetailCompareWeak": "Weak pillar: {previous} → {current}",
+  "@cycleDetailCompareWeak": {
+    "placeholders": {
+      "previous": { "type": "String" },
+      "current": { "type": "String" }
+    }
+  },
+  "cycleDetailPillarsTitle": "PILLARS",
+  "cycleDetailPillarAvgXp": "Avg week XP {xp}",
+  "@cycleDetailPillarAvgXp": {
+    "placeholders": {
+      "xp": { "type": "int" }
+    }
+  },
+  "cycleDetailPillarNoWeeks": "No focus weeks yet",
+  "cycleDetailVirtuesTitle": "THIRTEEN VIRTUES",
+  "cycleDetailWeeksTitle": "WEEKS",
+  "cycleDetailWeeksSubtitle": "Fault marks per week of the cycle",
+  "cycleDetailWeeksEmpty": "No weeks recorded yet.",
+  "cycleDetailCleanDaysTotal": "Clean days across weeks: {count}",
+  "@cycleDetailCleanDaysTotal": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "editorTitle": "Franklin wording editor",
+  "editorSubtitle": "Adapt the 13 virtues to your own life",
+  "focusSelectTileTitle": "Choose week focus",
+  "focusSelectTileSubtitleAuto": "Classic Franklin sequence (automatic)",
+  "focusSelectTileSubtitleAutoNamed": "Week {number}: {name} (automatic)",
+  "@focusSelectTileSubtitleAutoNamed": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+  "focusSelectTileSubtitleManual": "Week {number}: {name} (manual shift)",
+  "@focusSelectTileSubtitleManual": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+  "focusSelectTitle": "WEEK FOCUS",
+  "focusSelectSubtitle": "Carve your discipline",
+  "focusSelectHint": "Virtue #{number}: hold this quality in focus for the next 7 days. The sequence continues from here.",
+  "@focusSelectHint": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "focusSelectConfirm": "Set as week focus",
+  "saveChanges": "Save",
+  "privacyTitle": "Sanctity of the Journal",
+  "privacySubtitle": "All data stays only on this device",
+  "privacyManifestAppBar": "Portico · Fortress",
+  "privacyManifestTitle": "Data Fortress: Manifesto",
+  "privacyManifestLead": "Your journal, your faults, and your virtues are your private inner court. We believe digital discipline should never cost you privacy.",
+  "privacyManifestNoCloudTitle": "No cloud sync for your journal.",
+  "privacyManifestNoCloudBody": "Your journal, faults, and reflections stay on this device. We do not sync them to our servers or sell them.",
+  "privacyManifestNoAccountsTitle": "No accounts.",
+  "privacyManifestNoAccountsBody": "We do not need your name, email, or phone number. You remain anonymous.",
+  "privacyManifestAutonomyTitle": "What may use the network.",
+  "privacyManifestAutonomyBody": "Portico may fetch quotes and library essays from our content API (with on-device cache). The optional Mentor may download a model you choose (e.g. Hugging Face). Your journal never leaves the device.",
+  "privacyManifestClosing": "Your journal remains yours. Content and optional models are separate from your private practice.",
+  "preferencesTitle": "PREFERENCES",
+  "languageTitle": "Language",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "themeTitle": "Appearance",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "reminderTitle": "Evening reflection reminder",
+  "reminderSubtitle": "Daily at {time}",
+  "@reminderSubtitle": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderOffSubtitle": "Off — tap time to choose, then enable",
+  "gestureTipsTitle": "Gesture tips",
+  "gestureTipsSubtitleOn": "Show tips under the journal grid",
+  "gestureTipsSubtitleOff": "Hidden",
+  "reminderNotificationTitle": "Evening reflection",
+  "reminderNotificationBody": "Take a moment to review your day.",
+  "reminderPermissionDenied": "Notification permission was denied",
+  "tutorialMementoTitle": "You are here. Right now.",
+  "tutorialMementoBody": "This is not a game — it is an account of time that never returns. Set your birth date and open the life grid.",
+  "tutorialSetBirthDate": "Set birth date",
+  "tutorialOpenLifeGrid": "Open life grid",
+  "tutorialArchetypeTitle": "Philosophy without action is only words.",
+  "tutorialArchetypeBody": "Choose a pillar for your first cycle. It receives +50 XP so you do not begin at absolute zero.",
+  "tutorialArchetypeReplayBody": "Choose a pillar again to revisit the idea. The +50 XP bonus was already granted.",
+  "tutorialPickArchetypeHint": "Select a pillar to continue",
+  "tutorialArchetypeWisdom": "I want clearer, more conscious decisions.",
+  "tutorialArchetypeCourage": "I want to face fear and act.",
+  "tutorialArchetypeJustice": "I want honesty with myself and others.",
+  "tutorialArchetypeTemperance": "I seek hard self-control and discipline.",
+  "tutorialContractTitle": "Order rule: a fault is not defeat.",
+  "tutorialContractBody": "Marking your mistakes is an act of Courage. The Franklin grid is not here to prove you are bad — it reveals hidden cracks so you can mend them in the Temple. Be honest. Your journal stays on this device; nobody syncs it to a cloud account.",
+  "tutorialContractCta": "I accept the fight",
+  "tutorialContractPrivacyNote": "Journal stays on-device. Portico may use the network for texts; Mentor downloads are opt-in.",
+  "tutorialGestureTitle": "Practice the grid",
+  "tutorialGestureTap": "Tap today’s focus cell to mark a fault.",
+  "tutorialGestureHold": "Hold to undo. Mistakes can always be corrected.",
+  "tutorialGestureSwipe": "Swipe left for notes and virtue info.",
+  "tutorialGestureDone": "You know the gestures. Continue when ready.",
+  "tutorialSandboxFocus": "Focus virtue",
+  "tutorialSandboxNotes": "Notes",
+  "tutorialFinaleTitle": "Your first 13-week cycle has begun.",
+  "tutorialFinaleBody": "Each week the focus advances to the next virtue. Tonight at 20:00 we await you for the first evening reflection.",
+  "tutorialEnterJournal": "Enter the Journal",
+  "tutorialReplayTitle": "Practice tutorial",
+  "tutorialReplaySubtitle": "Replay initiation without resetting your journal",
+  "tutorialOfferTitle": "Order initiation",
+  "tutorialOfferBody": "Would you like a short initiation: Memento Mori, pillar choice, the contract, and Journal gestures?",
+  "tutorialOfferAccept": "Begin initiation",
+  "tutorialOfferLater": "Later",
+  "tutorialOfferLaterHint": "You can open initiation anytime in Order → “Practice tutorial”.",
+  "ledgerExportTileTitle": "Ledger of the Soul",
+  "ledgerExportTileSubtitle": "A yearly character audit in print",
+  "ledgerExportAppBar": "Order · Ledger",
+  "ledgerExportTitle": "Ledger of the Soul",
+  "ledgerExportLead": "Franklin kept paper volumes of his character. The Order prepares the same honor for the digital journal — a strict PDF in the spirit of an old book.",
+  "ledgerExportBody": "The scriptorium has not yet opened the press. When the smiths finish the layout, you will forge a volume here: cycle grids, black marks, and evening notes — so you may hold a yearly audit of the soul in your hands.",
+  "ledgerExportClosing": "The press is still being forged. Patience is also a virtue.",
+  "pillarDetailTitle": "Pillar audit",
+  "pillarDetailXpRemaining": "{xp} XP left to level {level}",
+  "@pillarDetailXpRemaining": {
+    "placeholders": {
+      "xp": { "type": "int" },
+      "level": { "type": "int" }
+    }
+  },
+  "pillarDetailIntegrityLine": "State: {status} ({detail})",
+  "@pillarDetailIntegrityLine": {
+    "placeholders": {
+      "status": { "type": "String" },
+      "detail": { "type": "String" }
+    }
+  },
+  "pillarDetailStatusCleanWeek": "Clean week",
+  "pillarDetailStatusWeekStrikes": "{count} faults this week in this pillar",
+  "@pillarDetailStatusWeekStrikes": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "pillarDetailAuditTitle": "Character audit (this cycle)",
+  "pillarDetailStrikeCount": "{count} faults",
+  "@pillarDetailStrikeCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "pillarDetailStrikeIdeal": "0 — Ideal",
+  "pillarDetailLedgerTitle": "XP ledger",
+  "pillarDetailLedgerEmpty": "No XP events yet. Mark faults or finish clean days.",
+  "pillarDetailRulesTitle": "How this pillar is forged",
+  "pillarDetailRulesForge": "What builds the pillar",
+  "pillarDetailRulesForgeBody": "+{clean} XP — each fully clean day (zero faults on the grid).\n+{base} XP — week base for the focus category (before clean-day bonuses and penalties).",
+  "@pillarDetailRulesForgeBody": {
+    "placeholders": {
+      "clean": { "type": "int" },
+      "base": { "type": "int" }
+    }
+  },
+  "pillarDetailRulesBreak": "What cracks the pillar",
+  "pillarDetailRulesBreakBody": "−{focus} XP — each fault in the focus virtue of the week.\n−{nonFocus} XP — each fault in other virtues of this pillar.",
+  "@pillarDetailRulesBreakBody": {
+    "placeholders": {
+      "focus": { "type": "int" },
+      "nonFocus": { "type": "int" }
+    }
+  },
+  "pillarDetailRulesFloorNote": "A pillar level never drops. Past victories are protected. Penalties can only bring current-level XP down to 0.",
+  "xpEventWeekBase": "Week base (focus category)",
+  "xpEventCleanDay": "Clean day",
+  "xpEventFocusStrike": "Fault — focus virtue",
+  "xpEventNonFocusStrike": "Fault — other virtue in pillar",
+  "xpEventArchetypeBonus": "Tutorial archetype bonus",
+  "pillarCoachSnackbar": "Temple updated. Tap a pillar to see your audit and XP rules.",
+  "pillarCoachBanner": "Tap a pillar to see the audit of your strengths and how XP is forged.",
+  "pillarCoachDismiss": "Dismiss",
+  "templeDustTitle": "The Temple gathers the dust of oblivion.",
+  "templeDustBody": "{days} day(s) away — each pillar lost {xp} XP. Return to practice.",
+  "@templeDustBody": {
+    "placeholders": {
+      "days": { "type": "int" },
+      "xp": { "type": "int" }
+    }
+  },
+  "xpEventDust": "Dust of oblivion",
+  "debugSectionTitle": "Debug",
+  "debugSimulateDustTitle": "Simulate 5 days of dust",
+  "debugSimulateDustSubtitle": "Backdate activity and apply Temple dust",
+  "debugSimulateDustDone": "Dust applied. Open Temple to see the banner.",
+
+  "mentorAudienceCta": "Audience with a mentor",
+  "mentorAudienceCtaSub": "On-device lapse review with a short follow-up dialogue",
+  "mentorAudienceTitle": "Portico audience",
+  "mentorModelsTitle": "Mentor models",
+  "mentorModelsLead": "Download the light model or point to a local .gguf. Inference stays on this device.",
+  "mentorFocusLabel": "Week focus",
+  "mentorRemainingToday": "Audiences left today: {count}",
+  "@mentorRemainingToday": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorNeedModel": "Download or register a model file first.",
+  "mentorOpenModels": "Open models",
+  "mentorReflectionLabel": "Your words (max 200 characters)",
+  "mentorEnterAudience": "Enter the audience",
+  "mentorStopAudience": "Stop the mentor",
+  "mentorResponseLabel": "Dialogue",
+  "mentorTurnYou": "You",
+  "mentorTurnMentor": "Mentor",
+  "mentorLoadingModel": "Loading model into memory…",
+  "mentorLoadingModelHint": "On a weaker device this can take from tens of seconds to a couple of minutes. No percent is normal — the file is being read from disk.",
+  "mentorThinking": "Mentor is answering…",
+  "mentorFollowUpLabel": "Continue (max 200 characters)",
+  "mentorSendFollowUp": "Reply to mentor",
+  "mentorFollowUpsLeft": "Follow-ups left in this audience: {count}",
+  "@mentorFollowUpsLeft": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorSavedDone": "Saved to on-device audience history.",
+  "mentorSavedInterrupted": "Audience interrupted. Text saved to history.",
+  "mentorHistoryTitle": "Audience history",
+  "mentorHistoryDetailTitle": "Audience",
+  "mentorHistoryEmpty": "No saved audiences yet.",
+  "mentorHistoryInterrupted": "interrupted",
+  "mentorDailyLimit": "No audiences left today (limit {count}).",
+  "@mentorDailyLimit": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorEngineFailed": "Could not start the model (llamadart). Check the GGUF and first-build native runtime — docs/local-llm-native.md.",
+  "mentorDisclaimerTitle": "Before the audience",
+  "mentorDisclaimerBody": "The Portico mentor is an on-device language model, not a living philosopher and not a medical or psychological service. Answers may be wrong. If you are in crisis, contact professionals and local help resources.\n\nReflections and prompts are not sent to VirtueForge servers for generation.",
+  "mentorDisclaimerAccept": "I understand — continue",
+  "mentorDownloadStarting": "Preparing download…",
+  "mentorDownloadResolving": "Resolving file on Hugging Face…",
+  "mentorDownloadCheckingCache": "Checking local cache / resuming…",
+  "mentorDownloadDownloading": "Downloading",
+  "mentorDownloadVerifying": "Verifying file…",
+  "mentorDownloadFailed": "Download failed",
+  "mentorDownloadCancelled": "Download cancelled",
+  "mentorDownloadAlreadyReady": "Model is already installed on this device",
+  "mentorDownloadIndeterminateHint": "Percent may be unknown during resume or cache checks. If the spinner runs for a while, keep the screen open — work may continue in the background.",
+  "mentorDownloadPercent": "{percent}%",
+  "@mentorDownloadPercent": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "mentorDownloadBytes": "{receivedMb} / {totalMb} MB ({percent}%)",
+  "@mentorDownloadBytes": {
+    "placeholders": {
+      "receivedMb": { "type": "String" },
+      "totalMb": { "type": "String" },
+      "percent": { "type": "int" }
+    }
+  },
+  "mentorDownloadBytesOnly": "{receivedMb} MB downloaded…",
+  "@mentorDownloadBytesOnly": {
+    "placeholders": {
+      "receivedMb": { "type": "String" }
+    }
+  },
+  "mentorDownloadDone": "Model ready",
+  "mentorDownloadHf": "Download from Hugging Face",
+  "mentorDownloadHfAgain": "Check install",
+  "mentorPickLocal": "Choose .gguf",
+  "mentorClearPath": "Clear path",
+  "mentorModelRegistered": "Model path saved",
+  "mentorSelectedBadge": "selected",
+  "mentorWeakTitle": "This device may struggle",
+  "mentorWeakBody": "We recommend the light model (1.5B). A 3B model may be slow and warm the phone.",
+  "mentorWeakKeepLight": "Keep 1.5B",
+  "mentorWeakUseHeavy": "Use 3B anyway",
+  "mentorWeakDeviceToggle": "Treat device as weak",
+  "mentorWeakDeviceToggleSub": "Warn when selecting 3B models",
+  "mentorWeakDeviceToggleSubAuto": "Detected from device RAM (<6 GB). You can override.",
+  "mentorWifiOnlyToggle": "Wi‑Fi only for model downloads",
+  "mentorWifiOnlyToggleSub": "Block multi‑GB downloads on mobile data (recommended)",
+  "mentorWifiRequiredTitle": "Wi‑Fi recommended",
+  "mentorWifiRequiredBody": "This model is about {size}. Prefer Wi‑Fi to avoid mobile data charges, or continue on cellular.",
+  "@mentorWifiRequiredBody": {
+    "placeholders": {
+      "size": { "type": "String" }
+    }
+  },
+  "mentorWifiRequiredWait": "Wait for Wi‑Fi",
+  "mentorWifiRequiredContinue": "Use mobile data",
+  "mentorDownloadOffline": "No network connection.",
+  "mentorDownloadWifiBlocked": "Download blocked: connect to Wi‑Fi or allow mobile data.",
+  "mentorLicenseGateTitle": "License required",
+  "mentorLicenseGateQwenResearch": "Qwen 2.5 3B uses Alibaba’s Research / Tongyi license. Review it before using this model in a free consumer app. By continuing you confirm you accept that license for these weights.",
+  "mentorLicenseGateLlama": "Llama 3.2 is subject to Meta’s Llama 3.2 Community License and Acceptable Use Policy. By continuing you accept those terms. Attribution: Built with Llama.",
+  "mentorLicenseGateAccept": "I accept",
+  "mentorLicenseGateCancel": "Cancel",
+  "mentorLicenseNoticeButton": "NOTICE / licenses",
+  "mentorBuiltWithLlama": "Built with Llama",
+  "mentorLicenseNoticeTitle": "Third-party notices",
+  "mentorLicenseFootnote": "Qwen 1.5B — Apache 2.0. Qwen 3B — check Research License. Llama 3.2 — Community License; when used: Built with Llama.",
+  "mentorOrderTileTitle": "About the on-device mentor",
+  "mentorOrderTileSubtitle": "Models, licenses, clear audiences",
+  "mentorAboutTitle": "On-device mentor",
+  "mentorAboutBody": "VirtueForge can use local models (Qwen 2.5 and/or Meta Llama 3.2) for journal audiences: a first review plus up to three short follow-ups. Inference runs on-device. Model files download only with your consent.\n\nThe daily limit on new audiences protects battery and heat; follow-ups inside one audience do not spend the limit.\n\nBuilt with Llama (when Llama is installed).",
+  "mentorMemoryEyebrow": "Held in device memory",
+  "mentorMemoryHeld": "{model} stays loaded after an audience so the next visit is faster.",
+  "@mentorMemoryHeld": {
+    "placeholders": {
+      "model": { "type": "String" }
+    }
+  },
+  "mentorMemoryHint": "Release the weights if the phone runs hot or RAM is tight. The file on disk stays.",
+  "mentorMemoryRelease": "Release from memory",
+  "mentorMemoryReleased": "Memory freed. The model file remains on disk.",
+  "mentorClearAudiences": "Clear saved audiences",
+  "mentorClearAudiencesDone": "Audience archive cleared"
+}

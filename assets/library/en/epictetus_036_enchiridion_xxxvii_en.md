@@ -1,0 +1,1 @@
+If you take on a role that exceeds your capabilities and pretend to be more than you are, you will lose both what you can accomplish and what is truly yours.

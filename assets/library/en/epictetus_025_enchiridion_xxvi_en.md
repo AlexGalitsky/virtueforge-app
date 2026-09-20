@@ -1,0 +1,3 @@
+**The Nature of Fate**
+
+The purpose of understanding nature can be gleaned from where we are in harmony with it, for example, when a neighbor's servant breaks a cup, we immediately say that there is nothing unusual about it. Recognize that when your own cup is broken, you should act exactly as you would if the neighbor's cup had been broken. Carry this principle over to more significant matters. When someone dies, whether a child or a spouse, everyone will claim that such an event is natural for humans. But when someone else suffers a misfortune, they immediately exclaim, "Woe is me! I am unfortunate!" It was expected of them to remember that we experience the misfortunes of others by hearing about them.

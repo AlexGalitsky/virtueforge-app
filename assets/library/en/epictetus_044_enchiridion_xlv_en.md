@@ -1,0 +1,1 @@
+Do not assert that someone is doing poorly when you are not sure. Instead, say that they are doing it quickly or that they are drinking a lot. For how can you know for certain whether their actions are truly bad? By not examining this opinion, you cannot avoid being swayed by appearances and agreeing with others who have different views.

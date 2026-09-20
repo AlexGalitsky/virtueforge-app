@@ -1,0 +1,1 @@
+Every time you take care of your body without great expense, do not boast about it. If you drink water, do so quietly and unassuming. And if you wish to exercise your body for the sake of work, do so for yourself, not for others. Do not embrace statues, but if you are severely parched from thirst, swallow a handful of cold water and say nothing about it.

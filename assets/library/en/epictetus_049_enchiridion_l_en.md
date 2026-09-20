@@ -1,0 +1,1 @@
+All that is given to you, treat as laws, as if you were committing a sacrilege by violating them. All that people say about you, do not pay attention to it, for it is not yours.

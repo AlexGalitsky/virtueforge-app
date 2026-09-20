@@ -1,0 +1,1 @@
+Do not demand that events unfold as you wish, but accept the circumstances as they are, and you will be happy.

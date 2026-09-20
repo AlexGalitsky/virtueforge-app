@@ -1,0 +1,3 @@
+# The Discernment of Good and Evil XX
+
+Remember that it is not the one who scolds or strikes that offends, but rather your opinion on these things, as if they were causing offense. Therefore, whenever someone provokes you, know that it was your own judgment that led to your irritation. Strive therefore, first and foremost, to avoid being swayed by your own preconceptions. For you will easily manage yourself only when you have a moment's respite.

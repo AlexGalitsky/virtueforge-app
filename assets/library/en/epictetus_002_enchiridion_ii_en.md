@@ -1,0 +1,5 @@
+TITLE: The Art of Recognition
+
+§ 1. Remember that acknowledging your desires is a achievement of what you strive for, and recognizing avoidance means you will not fall into what you avoid. Not reaching your goal is failure, while falling into it is misfortune. Therefore, if you only avoid things contrary to nature among the things within your power, you will not fall into what you avoid. However, if you begin to avoid illness, death, or poverty, you will become miserable.
+
+§ 2. So do not avoid everything that is beyond our control, and shift your avoidance onto what, being human, contradicts nature, and give up on your desire entirely. For if you strive for things beyond our power, you will inevitably suffer defeat. And since you have yet to experience anything good from striving for the things within our power, use only that striving which you possess and maintain by your own will, but with discernment and not too fervently.

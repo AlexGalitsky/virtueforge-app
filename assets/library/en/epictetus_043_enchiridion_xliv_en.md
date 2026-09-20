@@ -1,0 +1,1 @@
+These words do not stand together: "I am richer than you, therefore I am better than you; I am more eloquent than you, therefore I am better than you." But these words are joined much better: "I am richer than you, therefore my wealth is preferable to yours; I am more eloquent than you, therefore my eloquence surpasses yours." But you yourself are neither wealth nor eloquence.

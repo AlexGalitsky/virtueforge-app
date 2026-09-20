@@ -1,0 +1,1 @@
+Like walking on a path, one must be mindful of not stepping on a nail and not injuring their leg. Similarly, when it comes to the guiding principle of your mind, you should also be vigilant, preserving it in every endeavor. By doing so, you will approach each task with less risk to yourself.

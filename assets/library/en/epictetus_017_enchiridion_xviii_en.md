@@ -1,0 +1,1 @@
+Whenever adversity strikes, do not let your imagination be swayed by the negative. Instead, immediately examine yourself and say: "This brings me nothing but bad fortune, except perhaps for my body, possessions, good name, children, wife, and myself, if I choose to." For it is in our power to extract benefit from all that happens.

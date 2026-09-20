@@ -1,0 +1,1 @@
+Like setting a goal solely to avoid failure, evil is not created in the world with the intention of its existence.

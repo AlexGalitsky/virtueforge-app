@@ -1,0 +1,11 @@
+**The Discourse on Virtue XXIV**
+
+### § 1. Let not such thoughts oppress you: "I shall live without honor in complete insignificance." For if dishonor is a misfortune, then you cannot be afflicted by it through the fault of another, nor can you suffer shame through the fault of another. Is your entire concern for acquiring power or being invited to a feast? No, for what could this possibly be considered dishonorable? How can you be insignificant when you are in control of that which is within your power, and in which you are most valued?
+
+### § 2. "But my friends will remain without help." What do you call "without help"? Will you not give them a coin, nor make them Roman citizens? Who told you that this was beyond your power? Who can give to another what he himself does not possess? So, they say, work for it, and we shall also receive our share.
+
+### § 3. If you can acquire this by remaining modest, faithful, and generous, show me the way and I will do it. But if you demand that I destroy all my blessings so that you may gain what is not truly blessed, then look at how unjust and foolish you are. What is it that you desire more: money or a loyal and modest friend? So, help me better in this matter and do not require me to do something from which I will lose everything.
+
+### § 4. "But our homeland will remain without help, which lies within my power." Again, what kind of help? By your fault it will be deprived of gardens and baths? What does it matter? The cobbler does not make shoes for her, nor the blacksmith makes arms. It is enough if each one does his own work. "But if you raise another citizen, faithful and modest, are you not doing a service to our country?" Of course. But if, in order to serve your country, you lose your qualities, can you still be of use to her by becoming shameless and treacherous?
+
+### § 5. "So, what place shall I occupy in the state?" The one that you can maintain while remaining faithful and modest. And if you wish to serve the state, but lose your qualities, what benefit will it bring to you, a dishonorable and treacherous person?

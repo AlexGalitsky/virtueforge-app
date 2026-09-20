@@ -1,0 +1,5 @@
+# The Art of Living XLVI
+
+§ 1. Do not claim to be a philosopher, nor reason with the uninitiated about philosophical teachings. Instead, follow what these instructions teach you. For example, at a banquet, do not ponder how to eat properly. Simply eat as you should. Remember that Socrates everywhere avoided praise for himself, so when people came to him seeking introductions to philosophers, he would lead them to them.
+
+§ 2. If among the simple-minded there is a discussion of philosophical precepts, remain silent for as long as possible. For there is great danger in immediately expelling what has not yet been digested. And whenever someone accuses you of knowing nothing, do not be disheartened. Know that this is the moment when you begin your work. Just like sheep, which show only their wool and milk to shepherds but have already consumed the grass within themselves, so too should you keep to yourself what you are still digesting.

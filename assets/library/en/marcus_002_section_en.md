@@ -1,0 +1,21 @@
+**The Second Book**
+
+At dawn, say to yourself: "Today I will have to encounter people who are annoying, ungrateful, arrogant, treacherous, envious, and uncaring. All these qualities they owe to their ignorance of good and evil. I, on the other hand, after having understood both nature and its opposite, find it detestable and shameful. For I am not bound by blood or kinship to anyone, nor do I have a common origin with them; but I am united with them in spirit and by divine definition. Therefore, I cannot endure any harm from anyone, for no one can drag me into anything shameful. Nor can I be angry with my relatives or hate them, for we are created to work together, like the limbs of the body."
+
+Consider your body as a mere instrument, a weak manifestation of life force and a guiding principle. Leave books aside and do not be distracted from your task, for time is fleeting. Treat your body with the same disdain as if you were dead; it's just flesh and blood, a temporary arrangement of nerves and arteries.
+
+The creations of the gods are full of purpose. The things we attribute to chance also have some connection with nature or are linked to the thing that guides our actions. All this stems from the source, which is connected to both what is beneficial for all and what maintains its unity. But changes in elements and complex bodies contribute to maintaining harmony. Think about these ideas, which should give you satisfaction; make them your foundation.
+
+Satisfy your thirst for knowledge so as not to regret when death comes, and die with a good heart, from the very core of your being, without any deceit. Remember how long you have been putting off thinking about this, and how many times you have delayed using the time the gods have given you. But eventually, you should realize that you belong to some world as part of it and that you are subject to a ruler who limits your life.
+
+Always be concerned with doing what is worthy of a Roman and a husband, with complete seriousness, love for people, freedom, and justice. And remove all other thoughts from yourself. This will happen if you do everything as if it were the last thing in your life, without any foolishness, without being driven by passions, without hypocrisy, or discontent with your fate.
+
+Be aware that the requirements of philosophy are not difficult to fulfill; anyone can live a happy and divine life by following them. And even the gods themselves will not demand anything more from you than this.
+
+There is nothing more shameful than a human soul when it complains about the world, becoming like an annoying growth on itself. For to complain about something that happens is to rebel against nature, which encompasses all other beings in its part. Furthermore, when it rejects someone or strives against them with the intention of causing harm, it's like being angry at someone who has wronged you. And when it cannot resist pleasure or pain, it's like being unable to stand up for itself. When it deceives and pretends to be something it's not, that's also a shame. And when it does something without purpose or point, even in trivial matters, it should at least align its actions with a goal.
+
+Human life is short; its essence is eternal movement; our perception of time is vague; the structure of the body is feeble; the soul is unstable; fate is mysterious; and fame is unreliable. In general, everything related to the body is like a river, while everything related to the soul has a glimpse of the future.
+
+Life is a struggle and a journey through foreign lands; death brings oblivion. But what can lead someone onto this path? Nothing but philosophy. To philosophize means to protect your inner spirit from wear and tear, striving to make it stand above pleasures and pains, without any foolishness, deception, or hypocrisy, so that you do not harm those close to you or fail to act on anything that happens to you, seeing everything as coming from there where you yourself originated. But if the elements are not frightening because they constantly change into one another, why should we fear anyone's transformation and dissolution? For this is in accordance with nature, and what is in accordance with nature cannot be evil.
+
+*Carthage*

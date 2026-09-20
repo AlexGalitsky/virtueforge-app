@@ -1,0 +1,37 @@
+[
+  {
+    "id": "seneca_shortness",
+    "authorKey": "authorSeneca",
+    "titleKey": "essaySenecaTitle",
+    "snippetKey": "essaySenecaSnippet",
+    "virtueWeekNumber": 6
+  },
+  {
+    "id": "marcus_book4",
+    "authorKey": "authorMarcus",
+    "titleKey": "essayMarcusTitle",
+    "snippetKey": "essayMarcusSnippet",
+    "virtueWeekNumber": 11
+  },
+  {
+    "id": "epictetus_good",
+    "authorKey": "authorEpictetus",
+    "titleKey": "essayEpictetusTitle",
+    "snippetKey": "essayEpictetusSnippet",
+    "virtueWeekNumber": 2
+  },
+  {
+    "id": "seneca_silence",
+    "authorKey": "authorSeneca",
+    "titleKey": "essaySenecaTitle",
+    "snippetKey": "essaySenecaSnippet",
+    "virtueWeekNumber": 2
+  },
+  {
+    "id": "marcus_tranquility",
+    "authorKey": "authorMarcus",
+    "titleKey": "essayMarcusTitle",
+    "snippetKey": "essayMarcusSnippet",
+    "virtueWeekNumber": 11
+  }
+]

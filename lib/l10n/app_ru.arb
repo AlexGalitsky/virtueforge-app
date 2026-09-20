@@ -1,0 +1,621 @@
+{
+  "@@locale": "ru",
+
+  "appTitle": "VirtueForge",
+
+  "navJournal": "Журнал",
+  "navTemple": "Храм",
+  "navPortico": "Портик",
+  "navOrder": "Орден",
+
+  "dayMon": "Пн",
+  "dayTue": "Вт",
+  "dayWed": "Ср",
+  "dayThu": "Чт",
+  "dayFri": "Пт",
+  "daySat": "Сб",
+  "daySun": "Вс",
+
+  "levelBadge": "Ур. {level}",
+
+  "journalGridTitle": "Журнал проступков",
+  "weekPrev": "Предыдущая неделя",
+  "weekNext": "Следующая неделя",
+  "weekNavCurrent": "Эта неделя",
+  "weekNavPast": "Неделя с {date}",
+  "@weekNavPast": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "strikeNoteTitle": "{virtue} · {day}",
+  "@strikeNoteTitle": {
+    "placeholders": {
+      "virtue": { "type": "String" },
+      "day": { "type": "String" }
+    }
+  },
+  "strikeNotePrompt": "Что этот проступок говорит о вашем характере?",
+  "strikeNoteHint": "Пишите свободно — это только для вас.",
+  "strikeNoteSave": "Сохранить размышление",
+  "dayStrikeReflectionTitle": "Рефлексия дня",
+  "dayStrikeReflectionSubtitle": "Каждая отметка — отдельный проступок. Заметку добавляйте, когда есть время осмыслить, а не на бегу.",
+  "dayStrikeCountLabel": "Проступков: {count}",
+  "@dayStrikeCountLabel": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "dayStrikeItemTitle": "Проступок {number}",
+  "@dayStrikeItemTitle": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "dayStrikeNotePlaceholder": "Нажмите, чтобы добавить заметку",
+  "dayStrikeNoteDelete": "Удалить заметку",
+  "dayStrikeAdd": "Добавить проступок",
+  "dayStrikeRemove": "Убрать последний проступок",
+  "dayStrikeEmptyEditable": "Пока пусто. Добавьте здесь или тапните столбец «Сегодня» на сетке.",
+  "dayStrikeEmptyReadonly": "В этот день проступков нет.",
+  "gridSwipeNotes": "Заметки",
+  "gridSwipeInfo": "Справка",
+  "gridTipTodayOnly": "Быстро правится только столбец «Сегодня»",
+  "gridTipLongPress": "Удерживайте отметку, чтобы отменить случайный тап",
+  "gridTipDoubleTap": "Двойной тап по ячейке — рефлексия по каждому проступку",
+  "gridTipSwipe": "Свайпните добродетель влево — заметки или описание",
+  "eveningReflection": "Вечерняя рефлексия стоика",
+  "dichotomyControl": "Дихотомия контроля",
+  "reflectionUncontrolledLabel": "Что сегодня произошло вне моего контроля?",
+  "reflectionUncontrolledHint": "Поступки других, погода, пробки… (Принять как данность)",
+  "reflectionControlledLabel": "Как я управлял тем, что было в моей власти?",
+  "reflectionControlledHint": "Мои реакции, решения, фокус на добродетели…",
+  "finishDay": "Завершить день",
+  "reflectionTodayContextTitle": "Проступки сегодня",
+  "reflectionTodayEmpty": "Сегодня отметок нет — всё равно стоит оглянуться.",
+  "reflectionVirtueStrikeHeader": "{virtue} · {count}",
+  "@reflectionVirtueStrikeHeader": {
+    "placeholders": {
+      "virtue": { "type": "String" },
+      "count": { "type": "int" }
+    }
+  },
+  "reflectionStrikeLine": "{ordinal}. {detail}",
+  "@reflectionStrikeLine": {
+    "placeholders": {
+      "ordinal": { "type": "int" },
+      "detail": { "type": "String" }
+    }
+  },
+  "reflectionStrikeNoNote": "без заметки",
+  "fieldRequired": "Обязательное поле",
+  "quoteMarcusAuthor": "Марк Аврелий",
+  "quoteMarcusBody": "«Не рассуждай о том, каким должен быть хороший человек. Будь им».",
+
+  "onboardingSlide1Title": "Две системы. Один характер.",
+  "onboardingSlide1Body": "Мы объединили стоическую философию с практическим методом контроля Бенджамина Франклина. Это инструмент выковывания вашей личности.",
+  "onboardingSlide2Title": "13 Добродетелей Франклина",
+  "onboardingSlide2Body": "Каждую неделю вы фокусируетесь строго на одном качестве характера. Вечером вы честно фиксируете свои проступки в виде точек на сетке.",
+  "onboardingSlide3Title": "4 Стоические Колонны",
+  "onboardingSlide3Body": "Ваш ежедневный контроль питает четыре главных столпа духа: Мудрость, Мужество, Справедливость и Умеренность. Не дайте им дать трещину.",
+  "onboardingNext": "Далее",
+  "onboardingForge": "Выковать Характер",
+  "skip": "Пропустить",
+
+  "templeTitle": "Храм Добродетелей",
+  "characterStatus": "СТАТУС ХАРАКТЕРА",
+  "steadfastProgress": "Стойкий Прогресс",
+  "currentCycle": "Текущий цикл: {current} из {total} в этом году",
+  "stoicPillarsSection": "СТОИЧЕСКИЕ КОЛОННЫ",
+  "pillarIntegrityMonolith": "Монолит",
+  "pillarIntegrityCracked": "Трещины",
+  "pillarIntegrityShattered": "Разрушена",
+  "pillarLevelLabel": "Уровень {level}",
+  "@pillarLevelLabel": {
+    "placeholders": {
+      "level": { "type": "int" }
+    }
+  },
+  "pillarXpLabel": "{current} / {next} XP",
+  "@pillarXpLabel": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "next": { "type": "int" }
+    }
+  },
+  "pillarMottoTemperance": "Metron Ariston",
+  "pillarMottoWisdom": "Know Thyself",
+  "pillarMottoCourage": "Amor Fati",
+  "pillarMottoJustice": "Suum Cuique",
+
+  "stoicTemperance": "Умеренность",
+  "stoicTemperanceDesc": "Контроль желаний и баланс",
+  "stoicWisdom": "Мудрость",
+  "stoicWisdomDesc": "Принятие правильных решений",
+  "stoicCourage": "Мужество",
+  "stoicCourageDesc": "Стойкость перед трудностями",
+  "stoicJustice": "Справедливость",
+  "stoicJusticeDesc": "Честность и долг перед миром",
+
+  "virtueAbstinence": "Воздержание",
+  "virtueAbstinenceDesc": "Не ешь до одурения, не пей до опьянения.",
+  "virtueSilence": "Молчание",
+  "virtueSilenceDesc": "Говори только то, что может принести пользу тебе или другим; избегай пустых разговоров.",
+  "virtueOrder": "Порядок",
+  "virtueOrderDesc": "Пусть для каждой вещи будет свое место; пусть для каждого дела будет свое время.",
+  "virtueResolution": "Решительность",
+  "virtueResolutionDesc": "Решай делать то, что должно; исполняй безвременно то, что решил.",
+  "virtueFrugality": "Бережливость",
+  "virtueFrugalityDesc": "Трать деньги только на то, что приносит благо другим или тебе; ничего не растрачивай попусту.",
+  "virtueIndustry": "Трудолюбие",
+  "virtueIndustryDesc": "Не теряй времени даром; всегда будь занят чем-то полезным; отменяй все ненужные действия.",
+  "virtueSincerity": "Искренность",
+  "virtueSincerityDesc": "Не используй вредного обмана; мысли чисто и справедливо; если говоришь, то так и думай.",
+  "virtueJustice": "Справедливость",
+  "virtueJusticeDesc": "Не причиняй никому вреда, совершая проступки или упуская добрые дела, которые входят в твои обязанности.",
+  "virtueModeration": "Умеренность",
+  "virtueModerationDesc": "Избегай крайностей; сдерживай обиду на причиненный вред, даже если думаешь, что он того заслуживает.",
+  "virtueCleanliness": "Чистоплотность",
+  "virtueCleanlinessDesc": "Не допускай ни малейшей грязи на теле, в одежде или в доме.",
+  "virtueTranquility": "Спокойствие",
+  "virtueTranquilityDesc": "Не волнуйся по пустякам, из-за мелких происшествий или неизбежных случаев.",
+  "virtueChastity": "Целомудрие",
+  "virtueChastityDesc": "Редко предавайся сладострастию — только для здоровья или продления рода; никогда не доводи до ущерба для своего или чужого мира и репутации.",
+  "virtueHumility": "Скромность",
+  "virtueHumilityDesc": "Подражай Иисусу и Сократу.",
+
+  "virtueGridLabel": "{number}. {name}",
+
+  "porticoTitle": "Портик мудрости",
+  "forThisWeek": "ПОДХОДИТ ДЛЯ ЭТОЙ НЕДЕЛИ",
+  "randomThought": "СЛУЧАЙНАЯ МЫСЛЬ",
+  "porticoEmptyWeek": "Пока нет эссе для этой недели.",
+  "essayLoadFailed": "Не удалось загрузить текст. Проверьте сеть и попробуйте снова.",
+  "essayAnalysisLoadFailed": "Не удалось загрузить комментарий.",
+  "readFully": "Читать полностью →",
+  "continueReading": "Продолжить →",
+  "essayReaderTextTab": "Текст",
+  "essayReaderCommentTab": "Комментарий",
+  "essayReaderHasComment": "Есть комментарий",
+  "essayReaderContents": "Оглавление",
+  "essayReaderFontDecrease": "Мельче",
+  "essayReaderFontIncrease": "Крупнее",
+  "essayReaderVerseMode": "Режим строф",
+  "essayReaderCopyQuote": "Скопировать цитату",
+  "essayReaderQuoteCopied": "Цитата скопирована",
+  "essayReaderPrev": "Предыдущее",
+  "essayReaderNext": "Следующее",
+  "essayReaderFocusHint": "На этой неделе в фокусе — {virtue}. Заметь, что из письма можно взять в практику сегодня.",
+  "@essayReaderFocusHint": {
+    "placeholders": {
+      "virtue": { "type": "String" }
+    }
+  },
+  "authorSeneca": "Сенека",
+  "authorMarcus": "Марк Аврелий",
+  "authorEpictetus": "Эпиктет",
+  "essaySenecaTitle": "О краткости жизни",
+  "essaySenecaSnippet": "Не мало времени мы имеем, а много теряем. Жизнь уходит на пустяки…",
+  "essayMarcusTitle": "К самому себе. Книга 4",
+  "essayMarcusSnippet": "Время есть река… Едва появится что-нибудь, как уже уносится течением.",
+  "essayEpictetusTitle": "В чем наше благо?",
+  "essayEpictetusSnippet": "Владей своими мыслями. Всё остальное — вне твоей власти и тебя не касается.",
+
+  "orderTitle": "Орден",
+  "archiveCycles": "АРХИВ ЦИКЛОВ",
+  "personalSettings": "ЛИЧНЫЕ НАСТРОЙКИ",
+  "birthDateTileTitle": "Дата рождения",
+  "birthDateTileSubtitleEmpty": "Нужна для сетки жизни Memento Mori",
+  "birthDateTileSubtitleSet": "Рождение: {date}",
+  "@birthDateTileSubtitleSet": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "birthDatePageTitle": "Memento Mori",
+  "birthDateLead": "Помни, что ты смертен",
+  "birthDateDescription": "Стоики держали конечность жизни перед глазами, чтобы каждая неделя имела вес. Укажите дату рождения — в журнале появится сетка жизни (80 лет × 52 недели): прожитое, выкованное в VirtueForge и тонкая грань настоящего.",
+  "birthDatePickLabel": "Ваша дата рождения",
+  "birthDatePickHint": "Нажмите, чтобы выбрать",
+  "birthDateSave": "Сохранить",
+  "mementoMoriTitle": "Memento Mori",
+  "mementoMoriSetupTitle": "Укажите дату рождения",
+  "mementoMoriSetupSubtitle": "Откройте сетку жизни (Memento Mori)",
+  "mementoMoriPlaqueSubtitle": "Календарь жизни — прожитые и оставшиеся недели",
+  "mementoMoriWeeksSummary": "Прожито: {lived} нед. · Осталось: {remaining} нед.",
+  "@mementoMoriWeeksSummary": {
+    "placeholders": {
+      "lived": { "type": "int" },
+      "remaining": { "type": "int" }
+    }
+  },
+  "mementoMoriExploreHint": "Зажмите и ведите пальцем, чтобы исследовать холст времени",
+  "cycleTitle": "Цикл {roman} ({year})",
+  "@cycleTitle": {
+    "placeholders": {
+      "roman": { "type": "String" },
+      "year": { "type": "int" }
+    }
+  },
+  "cycleActiveSubtitle": "Неделя {week} из {total} · в процессе",
+  "@cycleActiveSubtitle": {
+    "placeholders": {
+      "week": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "cycleDoneSubtitle": "Успех: {percent}%. Слабая колонна: {pillar}",
+  "@cycleDoneSubtitle": {
+    "placeholders": {
+      "percent": { "type": "int" },
+      "pillar": { "type": "String" }
+    }
+  },
+  "cycleDoneSubtitleNoWeak": "Успех: {percent}%",
+  "@cycleDoneSubtitleNoWeak": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "archiveEmptyTitle": "Нет завершённых циклов",
+  "archiveEmptySubtitle": "Завершите первые 13 недель, чтобы увидеть архив.",
+  "cycleDetailTitle": "Гроссбух цикла",
+  "cycleDetailInProgress": "в процессе",
+  "cycleDetailSuccessLabel": "{percent}%",
+  "@cycleDetailSuccessLabel": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "cycleDetailStrikesLabel": "{count} отметок проступков в этом цикле",
+  "@cycleDetailStrikesLabel": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "cycleDetailWeakPillarLabel": "Слабейшая колонна: {pillar}",
+  "@cycleDetailWeakPillarLabel": {
+    "placeholders": {
+      "pillar": { "type": "String" }
+    }
+  },
+  "cycleDetailCompareTitle": "СРАВНЕНИЕ С ПРЕДЫДУЩИМ",
+  "cycleDetailCompareVs": "vs Цикл {roman} ({year})",
+  "@cycleDetailCompareVs": {
+    "placeholders": {
+      "roman": { "type": "String" },
+      "year": { "type": "int" }
+    }
+  },
+  "cycleDetailCompareSuccess": "Успех",
+  "cycleDetailCompareStrikes": "Проступки",
+  "cycleDetailCompareWeak": "Слабая колонна: {previous} → {current}",
+  "@cycleDetailCompareWeak": {
+    "placeholders": {
+      "previous": { "type": "String" },
+      "current": { "type": "String" }
+    }
+  },
+  "cycleDetailPillarsTitle": "КОЛОННЫ",
+  "cycleDetailPillarAvgXp": "Ср. XP недели {xp}",
+  "@cycleDetailPillarAvgXp": {
+    "placeholders": {
+      "xp": { "type": "int" }
+    }
+  },
+  "cycleDetailPillarNoWeeks": "Ещё не было фокусных недель",
+  "cycleDetailVirtuesTitle": "ТРИНАДЦАТЬ ДОБРОДЕТЕЛЕЙ",
+  "cycleDetailWeeksTitle": "НЕДЕЛИ",
+  "cycleDetailWeeksSubtitle": "Проступки по неделям цикла",
+  "cycleDetailWeeksEmpty": "Пока нет записанных недель.",
+  "cycleDetailCleanDaysTotal": "Чистых дней за недели: {count}",
+  "@cycleDetailCleanDaysTotal": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "editorTitle": "Редактор формулировок Франклина",
+  "editorSubtitle": "Адаптируйте 13 добродетелей под свою жизнь",
+  "focusSelectTileTitle": "Выбрать фокус недели",
+  "focusSelectTileSubtitleAuto": "Классический порядок Франклина (авто)",
+  "focusSelectTileSubtitleAutoNamed": "Неделя {number}: {name} (авто)",
+  "@focusSelectTileSubtitleAutoNamed": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+  "focusSelectTileSubtitleManual": "Неделя {number}: {name} (ручной сдвиг)",
+  "@focusSelectTileSubtitleManual": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+  "focusSelectTitle": "ФОКУС НА НЕДЕЛЮ",
+  "focusSelectSubtitle": "Высеки свою дисциплину",
+  "focusSelectHint": "Добродетель №{number}: удерживайте её в фокусе 7 дней. Дальше цикл продолжается с этого места.",
+  "@focusSelectHint": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "focusSelectConfirm": "Сделать фокусом недели",
+  "saveChanges": "Сохранить",
+  "privacyTitle": "Неприкосновенность журнала",
+  "privacySubtitle": "Все данные хранятся только на этом устройстве",
+  "privacyManifestAppBar": "Портик · Крепость",
+  "privacyManifestTitle": "Крепость данных: Манифест",
+  "privacyManifestLead": "Твой журнал, твои проступки и твои добродетели — это твой личный внутренний суд. Мы считаем, что цифровая дисциплина не должна стоить тебе приватности.",
+  "privacyManifestNoCloudTitle": "Журнал не уходит в облако.",
+  "privacyManifestNoCloudBody": "Журнал, проступки и рефлексии хранятся на этом устройстве. Мы не синхронизируем их на наши серверы и не продаём.",
+  "privacyManifestNoAccountsTitle": "Никаких аккаунтов.",
+  "privacyManifestNoAccountsBody": "Нам не нужно твоё имя, почта или номер телефона. Ты остаёшься инкогнито.",
+  "privacyManifestAutonomyTitle": "Что может использовать сеть.",
+  "privacyManifestAutonomyBody": "Портик может загружать цитаты и эссе с нашего content API (с кэшем на устройстве). Опциональный Наставник может скачать выбранную тобой модель (например, с Hugging Face). Журнал устройство не покидает.",
+  "privacyManifestClosing": "Журнал остаётся твоим. Контент и опциональные модели — отдельно от личной практики.",
+  "preferencesTitle": "НАСТРОЙКИ",
+  "languageTitle": "Язык",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "themeTitle": "Оформление",
+  "themeSystem": "Системная",
+  "themeLight": "Светлая",
+  "themeDark": "Тёмная",
+  "reminderTitle": "Вечернее напоминание о рефлексии",
+  "reminderSubtitle": "Ежедневно в {time}",
+  "@reminderSubtitle": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderOffSubtitle": "Выкл. — выберите время, затем включите",
+  "gestureTipsTitle": "Подсказки жестов",
+  "gestureTipsSubtitleOn": "Показывать подсказки под сеткой журнала",
+  "gestureTipsSubtitleOff": "Скрыты",
+  "reminderNotificationTitle": "Вечерняя рефлексия",
+  "reminderNotificationBody": "Уделите минуту, чтобы подвести итог дня.",
+  "reminderPermissionDenied": "Разрешение на уведомления отклонено",
+  "tutorialMementoTitle": "Вы здесь. Прямо сейчас.",
+  "tutorialMementoBody": "Это не игра — это учёт времени, которое безвозвратно уходит. Укажите дату рождения и откройте сетку жизни.",
+  "tutorialSetBirthDate": "Указать дату рождения",
+  "tutorialOpenLifeGrid": "Открыть сетку жизни",
+  "tutorialArchetypeTitle": "Философия без действия — просто слова.",
+  "tutorialArchetypeBody": "Выберите колонну для первого цикла. Она получит +50 XP, чтобы вы не начинали с абсолютного нуля.",
+  "tutorialArchetypeReplayBody": "Выберите колонну снова, чтобы вспомнить смысл. Бонус +50 XP уже был начислен.",
+  "tutorialPickArchetypeHint": "Выберите колонну, чтобы продолжить",
+  "tutorialArchetypeWisdom": "Хочу принимать более осознанные решения.",
+  "tutorialArchetypeCourage": "Хочу преодолеть страх и действовать.",
+  "tutorialArchetypeJustice": "Хочу быть честным с собой и окружающими.",
+  "tutorialArchetypeTemperance": "Ищу жёсткий самоконтроль и дисциплину.",
+  "tutorialContractTitle": "Правило Ордена: проступок — не поражение.",
+  "tutorialContractBody": "Фиксировать ошибки — акт Мужества. Сетка Франклина не для того, чтобы показать, какой вы плохой. Она обнажает трещины характера, чтобы вы могли заделать их в Храме. Будьте честны. Журнал остаётся на этом устройстве — мы не синхронизируем его в облачный аккаунт.",
+  "tutorialContractCta": "Я принимаю бой",
+  "tutorialContractPrivacyNote": "Журнал на устройстве. Портик может ходить в сеть за текстами; загрузка моделей Наставника — только по выбору.",
+  "tutorialGestureTitle": "Тренировка сетки",
+  "tutorialGestureTap": "Тапните по ячейке фокусной добродетели — отметить проступок.",
+  "tutorialGestureHold": "Удерживайте, чтобы отменить. Ошибку всегда можно исправить.",
+  "tutorialGestureSwipe": "Свайпните влево — заметки и справка.",
+  "tutorialGestureDone": "Жесты освоены. Можно продолжать.",
+  "tutorialSandboxFocus": "Фокусная добродетель",
+  "tutorialSandboxNotes": "Заметки",
+  "tutorialFinaleTitle": "Ваш первый 13-недельный цикл запущен.",
+  "tutorialFinaleBody": "Каждую неделю фокус смещается на следующую добродетель. Сегодня в 20:00 ждём вас на первую вечернюю рефлексию.",
+  "tutorialEnterJournal": "Войти в Журнал",
+  "tutorialReplayTitle": "Пройти туториал",
+  "tutorialReplaySubtitle": "Повторить инициацию без сброса журнала",
+  "tutorialOfferTitle": "Инициация Ордена",
+  "tutorialOfferBody": "Хотите пройти краткое обучение: Memento Mori, выбор колонны, контракт и жесты Журнала?",
+  "tutorialOfferAccept": "Пройти инициацию",
+  "tutorialOfferLater": "Позже",
+  "tutorialOfferLaterHint": "Инициацию можно открыть в любой момент в Ордене → «Пройти туториал».",
+  "ledgerExportTileTitle": "Гроссбух души",
+  "ledgerExportTileSubtitle": "Годовой аудит характера в печатном виде",
+  "ledgerExportAppBar": "Орден · Гроссбух",
+  "ledgerExportTitle": "Гроссбух души",
+  "ledgerExportLead": "Франклин хранил бумажные тома своего характера. Орден готовит ту же честь для цифрового журнала — строгий PDF в духе старинной книги.",
+  "ledgerExportBody": "Скрипторий ещё не открыл печать. Когда кузнецы завершат верстку, здесь можно будет выковать том: сетки циклов, чёрные точки и вечерние заметки — чтобы держать годовой аудит души в руках.",
+  "ledgerExportClosing": "Печать ещё куётся. Терпение — тоже добродетель.",
+  "pillarDetailTitle": "Аудит колонны",
+  "pillarDetailXpRemaining": "Осталось {xp} XP до уровня {level}",
+  "@pillarDetailXpRemaining": {
+    "placeholders": {
+      "xp": { "type": "int" },
+      "level": { "type": "int" }
+    }
+  },
+  "pillarDetailIntegrityLine": "Состояние: {status} ({detail})",
+  "@pillarDetailIntegrityLine": {
+    "placeholders": {
+      "status": { "type": "String" },
+      "detail": { "type": "String" }
+    }
+  },
+  "pillarDetailStatusCleanWeek": "чистая неделя",
+  "pillarDetailStatusWeekStrikes": "{count} проступков за неделю в этой колонне",
+  "@pillarDetailStatusWeekStrikes": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "pillarDetailAuditTitle": "Аудит характера (этот цикл)",
+  "pillarDetailStrikeCount": "{count} проступков",
+  "@pillarDetailStrikeCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "pillarDetailStrikeIdeal": "0 — идеально",
+  "pillarDetailLedgerTitle": "Лента XP",
+  "pillarDetailLedgerEmpty": "Пока нет событий XP. Отмечайте проступки или держите чистые дни.",
+  "pillarDetailRulesTitle": "Как ковать эту колонну",
+  "pillarDetailRulesForge": "Что строит колонну",
+  "pillarDetailRulesForgeBody": "+{clean} XP — каждый абсолютно чистый день (0 проступков по всей сетке).\n+{base} XP — база недели для фокусной категории (до бонусов чистых дней и штрафов).",
+  "@pillarDetailRulesForgeBody": {
+    "placeholders": {
+      "clean": { "type": "int" },
+      "base": { "type": "int" }
+    }
+  },
+  "pillarDetailRulesBreak": "Что разрушает колонну",
+  "pillarDetailRulesBreakBody": "−{focus} XP — каждый проступок в фокусной добродетели недели.\n−{nonFocus} XP — каждый проступок в остальных добродетелях этой колонны.",
+  "@pillarDetailRulesBreakBody": {
+    "placeholders": {
+      "focus": { "type": "int" },
+      "nonFocus": { "type": "int" }
+    }
+  },
+  "pillarDetailRulesFloorNote": "Уровень колонны никогда не падает. Прошлые победы защищены. Штрафы могут опустить опыт текущего уровня только до 0.",
+  "xpEventWeekBase": "База недели (фокусная категория)",
+  "xpEventCleanDay": "Чистый день",
+  "xpEventFocusStrike": "Проступок — фокусная добродетель",
+  "xpEventNonFocusStrike": "Проступок — другая добродетель колонны",
+  "xpEventArchetypeBonus": "Бонус архетипа из туториала",
+  "pillarCoachSnackbar": "Храм обновился. Нажмите на колонну, чтобы увидеть аудит и правила XP.",
+  "pillarCoachBanner": "Нажмите на колонну, чтобы увидеть аудит ваших сил и правила начисления опыта.",
+  "pillarCoachDismiss": "Закрыть",
+  "templeDustTitle": "Храм покрывается пылью забвения.",
+  "templeDustBody": "{days} дн. без практики — каждая колонна потеряла {xp} XP. Вернитесь к практике.",
+  "@templeDustBody": {
+    "placeholders": {
+      "days": { "type": "int" },
+      "xp": { "type": "int" }
+    }
+  },
+  "xpEventDust": "Пыль забвения",
+  "debugSectionTitle": "Отладка",
+  "debugSimulateDustTitle": "Симулировать 5 дней пыли",
+  "debugSimulateDustSubtitle": "Откатить активность и начислить пыль Храма",
+  "debugSimulateDustDone": "Пыль применена. Открой Храм, чтобы увидеть баннер.",
+
+  "mentorAudienceCta": "Аудиенция с наставником",
+  "mentorAudienceCtaSub": "Офлайн-разбор проступка и короткое продолжение беседы",
+  "mentorAudienceTitle": "Аудиенция в Портике",
+  "mentorModelsTitle": "Модели наставника",
+  "mentorModelsLead": "Скачайте лёгкую модель или укажите локальный файл .gguf. Инференс только на этом устройстве.",
+  "mentorFocusLabel": "Фокус недели",
+  "mentorRemainingToday": "Аудиенций сегодня: осталось {count}",
+  "@mentorRemainingToday": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorNeedModel": "Сначала скачайте или укажите файл модели.",
+  "mentorOpenModels": "Открыть модели",
+  "mentorReflectionLabel": "Ваша реплика (до 200 символов)",
+  "mentorEnterAudience": "Войти в аудиенцию",
+  "mentorStopAudience": "Прервать наставника",
+  "mentorResponseLabel": "Беседа",
+  "mentorTurnYou": "Вы",
+  "mentorTurnMentor": "Наставник",
+  "mentorLoadingModel": "Загрузка модели в память…",
+  "mentorLoadingModelHint": "На слабом устройстве это может занять от десятков секунд до пары минут. Индикатор без процента — нормально: файл читается с диска.",
+  "mentorThinking": "Наставник отвечает…",
+  "mentorFollowUpLabel": "Продолжить беседу (до 200 символов)",
+  "mentorSendFollowUp": "Ответить наставнику",
+  "mentorFollowUpsLeft": "Можно ещё реплик в этой аудиенции: {count}",
+  "@mentorFollowUpsLeft": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorSavedDone": "Сохранено в историю аудиенций на устройстве.",
+  "mentorSavedInterrupted": "Беседа прервана. Текст сохранён в историю.",
+  "mentorHistoryTitle": "История аудиенций",
+  "mentorHistoryDetailTitle": "Аудиенция",
+  "mentorHistoryEmpty": "Пока нет сохранённых аудиенций.",
+  "mentorHistoryInterrupted": "прервана",
+  "mentorDailyLimit": "На сегодня аудиенции исчерпаны (лимит {count}).",
+  "@mentorDailyLimit": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mentorEngineFailed": "Не удалось запустить модель (llamadart). Проверьте GGUF и первый билд native runtime — docs/local-llm-native.md.",
+  "mentorDisclaimerTitle": "Перед аудиенцией",
+  "mentorDisclaimerBody": "Наставник Портика — локальная языковая модель, а не живой философ и не медицинская или психологическая служба. Ответы могут содержать ошибки. При кризисе обратитесь к специалистам и службам помощи в вашем регионе.\n\nРефлексии и промпт не отправляются на серверы VirtueForge ради генерации.",
+  "mentorDisclaimerAccept": "Понятно, продолжить",
+  "mentorDownloadStarting": "Подготовка загрузки…",
+  "mentorDownloadResolving": "Поиск файла на Hugging Face…",
+  "mentorDownloadCheckingCache": "Проверка локального кэша / докачка…",
+  "mentorDownloadDownloading": "Скачивание",
+  "mentorDownloadVerifying": "Проверка файла…",
+  "mentorDownloadFailed": "Ошибка загрузки",
+  "mentorDownloadCancelled": "Загрузка отменена",
+  "mentorDownloadAlreadyReady": "Модель уже установлена на устройстве",
+  "mentorDownloadIndeterminateHint": "Процент может быть неизвестен (докачка или проверка кэша). Если индикатор крутится долго — не закрывайте экран: работа может идти в фоне.",
+  "mentorDownloadPercent": "{percent}%",
+  "@mentorDownloadPercent": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "mentorDownloadBytes": "{receivedMb} / {totalMb} МБ ({percent}%)",
+  "@mentorDownloadBytes": {
+    "placeholders": {
+      "receivedMb": { "type": "String" },
+      "totalMb": { "type": "String" },
+      "percent": { "type": "int" }
+    }
+  },
+  "mentorDownloadBytesOnly": "{receivedMb} МБ скачано…",
+  "@mentorDownloadBytesOnly": {
+    "placeholders": {
+      "receivedMb": { "type": "String" }
+    }
+  },
+  "mentorDownloadDone": "Модель готова",
+  "mentorDownloadHf": "Скачать с Hugging Face",
+  "mentorDownloadHfAgain": "Проверить установку",
+  "mentorPickLocal": "Указать .gguf",
+  "mentorClearPath": "Убрать путь",
+  "mentorModelRegistered": "Путь к модели сохранён",
+  "mentorSelectedBadge": "выбрана",
+  "mentorWeakTitle": "Устройство может не потянуть",
+  "mentorWeakBody": "Рекомендуем лёгкую модель (1.5B). 3B может работать медленно и греть телефон.",
+  "mentorWeakKeepLight": "Оставить 1.5B",
+  "mentorWeakUseHeavy": "Всё равно 3B",
+  "mentorWeakDeviceToggle": "Считать устройство слабым",
+  "mentorWeakDeviceToggleSub": "Предупреждать при выборе моделей 3B",
+  "mentorWeakDeviceToggleSubAuto": "Определено по RAM устройства (<6 ГБ). Можно переопределить.",
+  "mentorWifiOnlyToggle": "Только Wi‑Fi для загрузки моделей",
+  "mentorWifiOnlyToggleSub": "Блокировать многогигабайтные загрузки в мобильной сети (рекомендуется)",
+  "mentorWifiRequiredTitle": "Нужен Wi‑Fi",
+  "mentorWifiRequiredBody": "Модель около {size}. Лучше качать по Wi‑Fi, чтобы не сжечь мобильный трафик — или продолжить по сотовой сети.",
+  "@mentorWifiRequiredBody": {
+    "placeholders": {
+      "size": { "type": "String" }
+    }
+  },
+  "mentorWifiRequiredWait": "Подождать Wi‑Fi",
+  "mentorWifiRequiredContinue": "Качать по мобильной сети",
+  "mentorDownloadOffline": "Нет сети.",
+  "mentorDownloadWifiBlocked": "Загрузка заблокирована: подключите Wi‑Fi или разрешите мобильные данные.",
+  "mentorLicenseGateTitle": "Нужна лицензия",
+  "mentorLicenseGateQwenResearch": "Qwen 2.5 3B — лицензия Research / Tongyi (Alibaba). Перед использованием в бесплатном приложении ознакомьтесь с условиями. Продолжая, вы подтверждаете принятие лицензии на эти веса.",
+  "mentorLicenseGateLlama": "Llama 3.2 подчиняется Meta Llama 3.2 Community License и Acceptable Use Policy. Продолжая, вы принимаете эти условия. Атрибуция: Built with Llama.",
+  "mentorLicenseGateAccept": "Принимаю",
+  "mentorLicenseGateCancel": "Отмена",
+  "mentorLicenseNoticeButton": "NOTICE / лицензии",
+  "mentorBuiltWithLlama": "Built with Llama",
+  "mentorLicenseNoticeTitle": "Сторонние уведомления",
+  "mentorLicenseFootnote": "Qwen 1.5B — Apache 2.0. Qwen 3B — проверьте Research License. Llama 3.2 — Community License; при использовании: Built with Llama.",
+  "mentorOrderTileTitle": "О локальном наставнике",
+  "mentorOrderTileSubtitle": "Модели, лицензии и очистка аудиенций",
+  "mentorAboutTitle": "Локальный наставник",
+  "mentorAboutBody": "VirtueForge может использовать локальные модели (Qwen 2.5 и/или Meta Llama 3.2) для аудиенций по записям журнала: первый разбор и до трёх коротких продолжений. Инференс на устройстве. Файлы моделей — только по вашему согласию.\n\nДневной лимит новых аудиенций бережёт батарею и нагрев телефона; реплики внутри одной аудиенции лимит не тратят.\n\nBuilt with Llama (если установлена Llama).",
+  "mentorMemoryEyebrow": "В памяти устройства",
+  "mentorMemoryHeld": "{model} удерживается после аудиенции — следующий вход быстрее.",
+  "@mentorMemoryHeld": {
+    "placeholders": {
+      "model": { "type": "String" }
+    }
+  },
+  "mentorMemoryHint": "Отпустите веса, если телефон греется или не хватает RAM. Файл на диске останется.",
+  "mentorMemoryRelease": "Отпустить из памяти",
+  "mentorMemoryReleased": "Память освобождена. Файл модели на месте.",
+  "mentorClearAudiences": "Очистить сохранённые аудиенции",
+  "mentorClearAudiencesDone": "Архив аудиенций очищен"
+}

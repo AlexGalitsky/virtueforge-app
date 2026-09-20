@@ -1,0 +1,6 @@
+TITLE: The Art of Interpreting Chrysippus
+
+---
+# The Art of Interpreting Chrysippus
+
+Every time someone boasts about understanding and interpreting the writings of Chrysippus, tell yourself that if Chrysippus had not written them in a dark and obscure manner, this person would not have reason to be proud of themselves. What do I want? — I want to know my nature and follow it. I ask who can teach me this, and when I hear that it is possible through Chrysippus, I go to him; but if I do not understand what he has written, I seek an interpreter. Until that moment, nothing extraordinary happens. But then I find an interpreter, and all that remains is to use the instructions. This alone is beautiful. But will I be amazed by this skill of interpretation? Have I not become a philosopher instead of a grammarian? Am I not merely explaining Homer when I explain Chrysippus? I am more likely to be overcome with shame at being asked to read Chrysippus, if I am unable to show that my actions are in harmony with my words.

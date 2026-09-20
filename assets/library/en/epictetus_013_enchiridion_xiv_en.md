@@ -1,0 +1,5 @@
+TITLE: The Folly of Seeking External Validation
+
+§ 1. If you wish for your children, wife, and friends to always exist among the living, then you are misguided. For it is the thing outside yourself that you seek to subject to your power and make foreign to yourself. Thus, if you desire your son to never err, you are foolish, for you wish the faultlessness of another to become something other than itself. On the contrary, if you strive not to err in your own willful endeavors, then it is possible. So, practice what you have sufficient strength for.
+
+§ 2. The master of all is he who holds power over his desires and aversions. He can either preserve them or eliminate them. Therefore, every one who wishes to be free should not strive for that which lies in the power of others, nor should he shun it. Otherwise, he will inevitably become a slave.

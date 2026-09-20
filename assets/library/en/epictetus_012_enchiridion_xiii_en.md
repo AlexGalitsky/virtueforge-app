@@ -1,0 +1,3 @@
+**The Discourse on Self-Discipline XIII**
+
+If you wish to prosper, be patient, bearing with the foolishness of others in their external actions, as if you were a simpleton yourself. Do not strive to appear wise. And even if it seems to anyone that you possess some significance, do not trust your own judgment. For it is difficult to maintain harmony with nature and to keep one's inner and outer selves in balance. It is inevitable that you will attend to one thing while neglecting another.

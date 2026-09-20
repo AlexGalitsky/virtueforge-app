@@ -1,0 +1,1 @@
+Death, exile, and all that inspires fear should be constantly before your eyes, especially death — for it is in this way that you will never think of anything base and desire nothing beyond moderation.

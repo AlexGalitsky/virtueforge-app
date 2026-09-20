@@ -1,0 +1,3 @@
+# The Dangers of Pride
+
+Do not be proud of someone else's advantage. If a horse, puffed up with pride, said, "I am beautiful," it could be tolerated, but when you say in arrogance, "My horse is beautiful," know that you are boasting about something that belongs to another. So, what is yours? — The use of mental images. Therefore, every time this use is in accordance with nature, then and only then can you boast. For in this case, you will be boasting in your own good fortune.

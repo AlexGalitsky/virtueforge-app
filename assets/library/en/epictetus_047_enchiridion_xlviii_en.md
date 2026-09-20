@@ -1,0 +1,5 @@
+§ 1. The unwise man's stance in life is to expect benefits or harm not from himself, but from external circumstances. In contrast, the philosopher's stance is to derive benefit and harm from himself.
+
+§ 2. Signs of a person who has succeeded in wisdom: he does not reprimand anyone, praise anyone, criticize anyone, or blame anyone. He never speaks about himself as if he were a significant and knowledgeable person. Whenever he encounters an obstacle or difficulty in something, he blames it on himself; when someone praises him, he laughs to himself at the one who is praising him, and when someone starts to criticize him, he does not defend himself. He will avoid such a person as those who are recovering from illness would avoid disturbing their recovery until their strength returns.
+
+§ 3. He has removed all desires from himself and transferred his aversion entirely to what, while in our control, goes against nature. He uses the weakened desire for everything. It does not concern him whether he appears foolish or unwise. In short, he views himself as an enemy and a malicious person.

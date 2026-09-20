@@ -1,0 +1,1 @@
+If you ever find yourself in a situation where external things are your motivation to please someone, know that you have disrupted the natural order of your life. Therefore, be content with being a philosopher in all matters, and if you also wish to appear as a philosopher to others, first strive to be so to yourself, and you will become self-sufficient.

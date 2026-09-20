@@ -1,0 +1,3 @@
+Just as a ship at sea must constantly be aware of its surroundings to avoid being left behind, we too must remain vigilant in life. When the time comes to gather resources, such as water or food, we must consider our own "ship" and not become distracted by the allure of fleeting pleasures like marriage or children. For just as a ship's crew must prioritize their duties over personal desires, so too must we put aside our own interests when they conflict with our responsibilities.
+
+If the captain (our conscience) calls us back to shore, we must heed that call and leave behind any attachments that might distract us from our true path. And if we are old or infirm, we should not venture far from our "shore" lest we become lost and unable to return when needed.

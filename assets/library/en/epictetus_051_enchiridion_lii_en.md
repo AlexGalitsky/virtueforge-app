@@ -1,0 +1,4 @@
+# The Order of Precepts
+§ 1. The first and most esteemed place in philosophy is given to precepts, such as "Do not lie." The second position is occupied by evidence, like "Why should one not lie?" The third place is taken up by affirmations and divisions, including questions like "What makes this a proof?", "What constitutes an argument?", "What is the consequence?", "What is a dispute?", and "What is true and what is false?"
+
+§ 2. The third position is necessary because of the second, and the second because of the first. However, the most important thing to focus on is the first place. Yet, we do the opposite, focusing on the third place and devoting all our attention to it, while neglecting the first. This is why we lie. And how can one prove that lying is not acceptable? It's always at hand.

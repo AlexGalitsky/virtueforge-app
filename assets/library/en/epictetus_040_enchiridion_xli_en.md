@@ -1,0 +1,1 @@
+A sign of the lack of innate ability is excessive attention to one's own body, such as when someone over-exercises, overeats, drinks excessively, or engages in other self-indulgent behaviors. All these things should be done out of habit, while all focus and attention should be directed towards the mind.
